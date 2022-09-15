@@ -1,26 +1,27 @@
 # 
-  
+  README Generator
+ 
   ## Description 
-  Generator
+  Generate professional README
   
   ## Table of Contents
   * [Description](#Description)
   * [Installation](#Installation)
   * [Usage](#Usage)
   * [Contributing](#Contributing)
-  * [Tests](#Tests)
   * [Questions](#Questions)
   * [License](#License)
   ## Installation
-  have a github page
+  Install npm i inquirer@8.2.4
+ 
   ## Usage
-  none
+  Run node index.js in terminal
+  
+  ## Contributing
+  Clone this repository
+ 
+  ## Questions
+  If you have any questions about this projects, please contact me directly at soon@gmail.com. You can view more of my projects at https://github.com/user.
+  
   ## License
   This Project is licensed under the MIT license.
-  ## Contributing
-  n/a
-
-jenicode
-soon@gmail.com
-created a readme file
-MIT
